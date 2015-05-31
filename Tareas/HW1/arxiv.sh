@@ -1,5 +1,5 @@
 #!/bin/bash
-
+figlet arxiv
 echo =====================================
 echo "Searching the arXiv for the new stuff"
 echo "http://arxiv.org/list/quant-ph/new"
