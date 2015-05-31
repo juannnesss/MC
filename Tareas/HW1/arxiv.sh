@@ -1,4 +1,8 @@
 #!/bin/bash
+
+echo =====================================
+echo "Searching the arXiv for the new stuff"
+echo "http://arxiv.org/list/quant-ph/new"
 echo ===========================================================================
 echo "Estas son los titulos para la palabra $1"
 echo ===========================================================================
