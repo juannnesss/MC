@@ -16,4 +16,3 @@ Y los metodos a estudiar son:
 5. ecuaciones diferenciales parciales,
 6. Metodos de Monte Carlo.
 
-
