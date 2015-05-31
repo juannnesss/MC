@@ -4,7 +4,7 @@ echo StarDate
 echo "#########################"
 echo $1
 #se buscan los del ano
-awk -v var="$1" -F"\t" '{if($1==var) print $2}'worldhistory.tsv
+awk -v var="$1" -F"\t" '{if($1==var) print $2}' worldhistory.tsv
 echo "#########################"
 echo "RA   DEC   HIP No."
 #se imprimen los 5 primeros que cumplen con condicion, y es estar dentro del 
