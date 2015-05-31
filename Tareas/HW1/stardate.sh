@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "#########################"
-echo StarDate
+figlet StarDate
 echo "#########################"
-echo $1
+figlet $1
 #se buscan los del ano
 awk -v var="$1" -F"\t" '{if($1==var) print $2}' worldhistory.tsv
 echo "#########################"
