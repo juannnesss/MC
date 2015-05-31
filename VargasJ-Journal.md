@@ -2,11 +2,11 @@
 **Metodos Computacionales** vacaciones 2015
 
 Herraamientas del Curso:
-+ git,
-+ GitHub,
-+ bash,
-+ C,
-+ Python,
++ git
++ GitHub
++ bash
++ C
++ Python
 
 Y los metodos a estudiar son:
 1. interpolacion,
