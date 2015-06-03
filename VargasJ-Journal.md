@@ -16,3 +16,6 @@ Y los metodos a estudiar son:
 5. ecuaciones diferenciales parciales,
 6. Metodos de Monte Carlo.
 
+#Segunda clase 
+**HandsOn 2** 02-Jun-2015
+1. La expresion para los primeros 4 caracteres `^(.... )`
