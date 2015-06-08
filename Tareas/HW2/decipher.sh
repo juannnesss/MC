@@ -1,6 +1,7 @@
 #!/bin/bash
 cat $input > text1.txt
 #cat text1.txt
+#aca se hacen las 10 repeticiones de los cambios d letras
 for i in {1..10}
 	do
 	./flip.sh v z text1.txt > text2.txt
@@ -59,5 +60,6 @@ for i in {1..10}
 	done
 	
 cat text1.txt|figlet
+#se borran los archivos que se crearon para facilidad del manejo del punto 
 rm text1.txt
 rm text2.txt
