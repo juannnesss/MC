@@ -1,5 +1,6 @@
 #!/bin/bash
 R=$1
+#grafica de un circulo
 gnuplot<< EOF
     set parametric
     unset border
