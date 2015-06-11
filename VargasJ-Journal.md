@@ -69,4 +69,4 @@ for i in range(0,25):
 
 show()
 ```
-![Lissajous figures](https://github.com/juannnesss/MC/blob/master/Lissajous.png)
+![Lissajous figures](https://github.com/juannnesss/MC/blob/master/Clase/Lissajous.png)
