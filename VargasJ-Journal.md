@@ -60,12 +60,13 @@ t = linspace(-pi,pi,300)
 figure(figsize=(20,20)) 
 
 for i in range(0,25):
-#las escuaciones parametricas
-x = sin(a[i] * t + delta) 
-y = sin(b[i] * t) 
-subplot(5,5,i+1) 
-plot(x,y)
-plt.axis('off')   
+    #las escuaciones parametricas
+    x = sin(w_x[i] * t + delta) 
+    y = sin(w_y[i] * t) 
+    subplot(5,5,i+1) 
+    plot(x,y)
+    plt.axis('off')   
 
 show()
 ```
+![Lissajous figures](https://github.com/juannnesss/MC/blob/master/Lissajous.png)
