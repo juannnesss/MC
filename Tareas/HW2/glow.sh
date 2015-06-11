@@ -1,5 +1,7 @@
 #!/bin/bash
+#Trabajo junto a Ciro Gelvez 
 let conta=0;
+#se crea una variable que ira aumentando con cada iteracion y de esa manera cambiar el radio.
 while(true)
 	do
 	clear

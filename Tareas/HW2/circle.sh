@@ -1,4 +1,5 @@
 #!/bin/bash
+#Trabajo junto a Ciro Gelvez 
 R=$1
 #grafica de un circulo
 gnuplot<< EOF

@@ -1,4 +1,5 @@
 #!/bin/bash
+#Trabajo junto a Ciro Gelvez 
 A=$1
 B=$2
 #como el remplazo es en los dos sentidos, se realizan los respectivos remplazos 

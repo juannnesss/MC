@@ -1,4 +1,5 @@
 #!/bin/bash
+#Trabajo junto a Ciro Gelvez 
 cat $input > text1.txt
 #aca se hacen las 10 repeticiones de los cambios d letras
 for i in {1..10}
