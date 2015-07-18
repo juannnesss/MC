@@ -5,6 +5,9 @@
 
 Haga una copia de este archivo en su repositorio de GitHub en la carpeta /MC/Talleres/Taller4/. No olvide al final hacer un *commit* y un *push*.
 
+# Solucion
+[Taller4.ipynb](https://github.com/juannnesss/MC/blob/master/Talleres/Taller4/Taller%204.ipynb)
+
 ## interpolación
 
 1. Del segundo capítulo del [libro de Scherer](http://link.springer.com.ezproxy.uniandes.edu.co:8080/book/10.1007\%2F978-3-642-13990-1) resuelva los literales c y d del problema 2.1.
