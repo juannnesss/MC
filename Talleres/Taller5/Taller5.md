@@ -11,7 +11,7 @@ Haga una copia de este archivo en su repositorio de GitHub en la carpeta /MC/Tal
 
 ![](https://raw.githubusercontent.com/ComputoCienciasUniandes/MetodosComputacionalesLaboratorio/master/2015-V/actividades/talleres/Taller5/gibbs.png?raw=true =500x)
 
-## Link
+## Link Solucion
 + [gibbs.ipynb](https://github.com/juannnesss/MC/blob/master/Talleres/Taller5/gibbs.ipynb)
 
 ## GitHub branches & tags
