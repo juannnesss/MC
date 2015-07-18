@@ -11,10 +11,20 @@ Haga una copia de este archivo en su repositorio de GitHub en la carpeta /MC/Tal
 
 ![](https://raw.githubusercontent.com/ComputoCienciasUniandes/MetodosComputacionalesLaboratorio/master/2015-V/actividades/talleres/Taller5/gibbs.png?raw=true =500x)
 
+## Link
++ [gibbs.ipynb](https://github.com/juannnesss/MC/blob/master/Talleres/Taller5/gibbs.ipynb)
 
 ## GitHub branches & tags
 
 1. Ponga una etiqueta al actual commit de su repositorio llamada *v0.33* y haga un push de ella a GitHub.
+
+## Solucion
+
+```
+git tag -a v0.33 2801cd8ae6093c18cf63ac04c5e907778cc21728
+git push origin v0.33 
+```
+donde `2801cd8ae6093c18cf63ac04c5e907778cc21728` es el Hash del commit al quier quiero ponerle el tag
 
 
 **Al terminar la clase ejecute `lottery.sh` para saber si su taller va a ser revisado.**
